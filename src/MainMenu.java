@@ -374,6 +374,7 @@ public class MainMenu extends Engine.Prog {
                     if (bPos.y() == 0)
                         type = PieceType.p2k;
                 }
+                turn = type.isP1 ? Turn.p1 : Turn.p2;
             }
 
             public void move(float dx, float dy) { if (mode == Mode.swordfight && !isAttacking && !isShielding) { pos.x += dx; pos.y -= dy; } }
@@ -917,4 +918,5 @@ public class MainMenu extends Engine.Prog {
         }
 
     }
+
 }
