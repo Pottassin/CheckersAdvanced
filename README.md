@@ -3,10 +3,12 @@ This DOES NOT read all the data on your computer, but if you have the other fold
 
 Controls:
   keyboard:
-    p1 (default light tan):
+    p1 (default light tan):  
+
+    
       W = up
       S = down
-      A = left
+      A = left  
       D = right
       Q = shield
       E = attack
