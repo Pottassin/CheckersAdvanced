@@ -1,11 +1,9 @@
-Run the "ReadData" class.
+Run the "ReadData" class.\n
 This DOES NOT read all the data on your computer, but if you have the other folder, it will use the camera for motion tracking.
 
 Controls:
   keyboard:
     p1 (default light tan):  
-
-    
       W = up
       S = down
       A = left  
