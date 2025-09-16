@@ -29,6 +29,6 @@ This DOES NOT read all the data on your computer, but if you have the other fold
   
 
 #Contributors:
-####Pottassin (Pottassination)
-####AViJ11
-####(another person whose username I don't remember) raf
+###Pottassin (Pottassination)
+###AViJ11
+###(another person whose username I don't remember) raf
