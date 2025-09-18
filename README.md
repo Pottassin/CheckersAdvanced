@@ -1,5 +1,7 @@
-Run the "ReadData" class.  
+Run the "ReadData" class.
 This DOES NOT read all the data on your computer, but if you have the other folder, it will use the camera for motion tracking.  
+
+You will need to change the file references in the "ReadData" class to the file location of the "OpenPose" class and a python compiler.  
   
 # Controls:
 ## keyboard:
